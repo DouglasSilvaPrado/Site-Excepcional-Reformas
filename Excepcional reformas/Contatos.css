@@ -1,0 +1,68 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 517px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 59px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  width: 570px;
+  margin: 29px auto 59px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 654px;
+}
+
+.u-section-2 .u-text-1 {
+  text-decoration: underline !important;
+  font-weight: 700;
+  margin: 21px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 400;
+  margin: 49px auto 0;
+}
+
+.u-section-2 .u-map-1 {
+  width: 1016px;
+  height: 327px;
+  margin: 43px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-map-1 {
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-map-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-map-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-map-1 {
+    width: 340px;
+  }
+}
